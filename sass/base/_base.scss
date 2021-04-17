@@ -1,8 +1,20 @@
 body {
-    background: no-repeat url(../../assets/background.jpg);
-    background-size: auto;    
+    width: 100%;    
+    background: rgba($color: #000000, $alpha: 1.0);
+       
 }
 
 .hero {
+<<<<<<< Updated upstream
     height: 500px;
 }
+=======
+    background:  url(../../assets/background.jpg) no-repeat  ;
+    background-size: cover;       
+    height: 50vh;
+    border-bottom: 8px solid #222
+}
+
+
+   
+>>>>>>> Stashed changes
