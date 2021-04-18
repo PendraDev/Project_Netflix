@@ -1,13 +1,15 @@
-h1 {    
+h1 {
+    margin-top: 30px;    
     font-size: 2.6rem;
     text-align: center;
     font-family: 'MyWebFont', Fallback, sans-serif;
     color: #fff;
 }
-p {
+h2,h3 {
     margin: 1rem;
     font-size: 1.8rem;    
     text-align: center;
+    font-weight: 500;
     font-family: 'MyWebFont', Fallback, sans-serif;
     color: #fff;
 }

@@ -5,16 +5,20 @@ body {
 }
 
 .hero {
-<<<<<<< Updated upstream
-    height: 500px;
-}
-=======
     background:  url(../../assets/background.jpg) no-repeat  ;
     background-size: cover;       
-    height: 50vh;
-    border-bottom: 8px solid #222
+    height: 70vh;
+    border-bottom: 8px solid #222;
 }
-
-
+.logo {
+    width: 125px;
+}
+.tv {
+    display: block;
+    width: 350px;
+    margin: 0 auto;
+}
+.section2 {
+    border-bottom: 8px solid #222;
    
->>>>>>> Stashed changes
+}
