@@ -53,7 +53,7 @@ function validarformulario() {
     var password=document.forms["login"] ["password"].value;
 
     if((usuario == "usuario") && (password == "password")) {
-        window.location.href = 'usuarios.html'
+        window.location.href = 'Usuarios.html'
         return false;
     } else {
         alert ("usuario y/o contraseña invalidos")
